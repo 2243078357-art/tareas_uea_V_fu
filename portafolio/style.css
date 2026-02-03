@@ -1,0 +1,22 @@
+body{background-color: rgb(255, 230, 0);
+color: bisque;    
+font-size: 48px;
+}
+h1{
+    color:chocolate;
+}
+p{
+    color: rgb(0, 0, 0);
+}
+div{
+    background-color: rgb(255, 60, 0);
+    padding: 20px;
+    border-style: dotted;
+    border-color: rgb(255, 187, 0);
+    margin: 20px;
+    margin-left: auto;
+    border-radius: 20px;
+}
+img{
+    border-radius: 20px;
+}
